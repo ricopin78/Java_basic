@@ -14,13 +14,5 @@ public class Chapter06 {
 		System.out.println(float1);
 		System.out.println(int1);
 		System.out.println(char1);
-
-		int [] array1 = new int[5];
-		array1[0] = 1;
-		array1[1] = 2;
-		array1[2] = 3;
-		array1[3] = 4;
-		array1[4] = 5;
-		System.out.println(array1[2]);
 	}
 }
